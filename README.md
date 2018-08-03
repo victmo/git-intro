@@ -3,9 +3,9 @@ Intro to Git and GitHub
 
 ## Goals
 
-TODO
+understand git concepts and how to implement them with github
 
-## Expctations
+## Expectations
 
 TODO
 
