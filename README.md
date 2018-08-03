@@ -5,7 +5,7 @@ Intro to Git and GitHub
 
 TODO
 
-## Expctatios
+## Expctations
 
 TODO
 
@@ -13,4 +13,6 @@ TODO
 
 This is a list apps to interact with Git:
 
-  - TODO
+  - GitUp
+  - GitKraken
+  - Fork
