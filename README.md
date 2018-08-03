@@ -5,7 +5,7 @@ Intro to Git and GitHub
 
 TODO
 
-## Expctatios
+## Expctations
 
 TODO
 
