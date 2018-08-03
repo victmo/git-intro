@@ -13,4 +13,6 @@ TODO
 
 This is a list apps to interact with Git:
 
-  - TODO
+  - GitUp
+  - GitKraken
+  - Fork
